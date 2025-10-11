@@ -1,0 +1,1 @@
+Here are the practice codes that I requested from the AI and wrote myself to improve my skills while learning the C language.
