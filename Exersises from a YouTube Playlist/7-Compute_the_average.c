@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Compute the Average of an Array
+
 void average(int list[], int l);
 
 int main(){
